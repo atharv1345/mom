@@ -5,6 +5,7 @@ let showHidden = false;
 
 const fullText = "Typing a message to the strongest woman I know...💗💗💗";
 
+
   document.getElementById("title").innerText =
     `💐 A Little Message for mummy 💐`;
 
@@ -88,3 +89,4 @@ const fullText = "Typing a message to the strongest woman I know...💗💗💗"
       — The luckiest soul alive 💖
     `;
   });
+
