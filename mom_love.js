@@ -88,5 +88,3 @@ const fullText = "Typing a message to the strongest woman I know...💗💗💗"
       — The luckiest soul alive 💖
     `;
   });
-};
-
