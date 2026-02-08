@@ -5,10 +5,6 @@ let showHidden = false;
 
 const fullText = "Typing a message to the strongest woman I know...💗💗💗";
 
-window.onload = function () {
-  const name = prompt("You are my  💖");
-  if (name) momName = name;
-
   document.getElementById("title").innerText =
     `💐 A Little Message for mummy 💐`;
 
@@ -93,3 +89,4 @@ window.onload = function () {
     `;
   });
 };
+
